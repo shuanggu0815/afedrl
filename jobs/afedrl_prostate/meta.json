@@ -1,0 +1,10 @@
+{
+    "name": "afedrl",
+    "resource_spec": {},
+    "deploy_map": {
+      "app": [
+        "@ALL"
+      ]
+    }
+  }
+  

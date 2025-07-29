@@ -1,0 +1,6 @@
+{
+  "cache_dataset": 1.0,
+  "batch_size": 32,
+  "dataset_base_dir": "your path to dataset_base_dir",
+  "datalist_json_path": "your path to datalist_json_path"
+}
